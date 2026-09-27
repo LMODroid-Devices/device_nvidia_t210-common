@@ -21,9 +21,11 @@ stock-t210	vendor/firmware/gm20b/nv_acr_ucode_prod.bin		firmware/gm20b/
 stock-t210	vendor/firmware/gm20b/pmu_bl.bin			firmware/gm20b/
 stock-t210	vendor/firmware/gm20b/pmu_sig.bin			firmware/gm20b/
 stock-t210	vendor/firmware/tegra21x/nvhost_nvdec_bl_no_wpr020.fw	firmware/tegra21x/
-stock-t210	vendor/firmware/tegra21x/nvhost_nvdec020.fw		firmware/tegra21x/
+stock-foster	vendor/firmware/tegra21x/nvhost_nvdec020.fw		firmware/tegra21x/
 stock-t210	vendor/firmware/tegra21x/nvhost_nvdec020_ns.fw		firmware/tegra21x/
-stock-t210	vendor/firmware/tegra21x/nvhost_nvdec020_prod.fw	firmware/tegra21x/
+stock-foster	vendor/firmware/tegra21x/nvhost_nvdec020_prod.fw	firmware/tegra21x/
+stock-t210	vendor/firmware/tegra21x/nvhost_nvdec020.fw		firmware/tegra21x/nvhost_nvdec020_tegra210b01.fw
+stock-t210	vendor/firmware/tegra21x/nvhost_nvdec020_prod.fw	firmware/tegra21x/nvhost_nvdec020_tegra210b01_prod.fw
 stock-t210	vendor/firmware/tegra21x/nvhost_nvdec_bl020.fw		firmware/tegra21x/
 stock-t210	vendor/firmware/tegra21x/nvhost_nvdec_bl020_prod.fw	firmware/tegra21x/
 stock-t210	vendor/firmware/tegra21x/nvhost_nvenc050.fw		firmware/tegra21x/
