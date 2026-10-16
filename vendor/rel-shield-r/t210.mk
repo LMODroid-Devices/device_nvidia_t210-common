@@ -51,6 +51,8 @@ PRODUCT_COPY_FILES += \
     $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec020.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec020.fw \
     $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec020_ns.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec020_ns.fw \
     $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec020_prod.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec020_prod.fw \
+    $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec020_tegra210b01.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec020_tegra210b01.fw \
+    $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec020_tegra210b01_prod.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec020_tegra210b01_prod.fw \
     $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec_bl020.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec_bl020.fw \
     $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec_bl020_prod.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec_bl020_prod.fw \
     $(T210_FIRMWARE_PATH)/tegra21x/nvhost_nvdec_bl_no_wpr020.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/tegra21x/nvhost_nvdec_bl_no_wpr020.fw \
